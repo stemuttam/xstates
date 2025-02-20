@@ -1,0 +1,16 @@
+.location-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between dropdowns */
+    margin-top: 20px;
+  }
+  
+  .location-container label {
+    font-weight: bold;
+  }
+  
+  .location-container select {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
